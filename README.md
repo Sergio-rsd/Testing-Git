@@ -1,2 +1,2 @@
 # Testing-Git
-Exprimental test
+Эксперименты с Git
